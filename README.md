@@ -1,0 +1,1 @@
+This is a simple e-commerce website built using HTML, CSS, and JavaScript. The site allows users to browse products, add them to the cart, and view their total. While this project is front-end only, it can be expanded with backend functionality like user authentication and payment integration.
